@@ -1,6 +1,6 @@
 {
-  "name": "GODSZEAL XMD",
-  "description": "GODSZEAL XMD made for people on Earth",
+  "name": "Evil Imranos Bot",
+  "description": "Evil Imranos Bot made for people on Earth",
   "keywords": ["whatsapp-bot", "baileys", "nodejs", "bot"],
   "repository": "https://github.com/AiOfLautech/God-s-Zeal-Xmd",
   "logo": "assets/bot_image.jpg",
@@ -19,7 +19,7 @@
     },
     "PREMIUM_USERS": {
       "description": "premium users",
-      "value": "2347049283499",
+      "value": "212617503205","212607361454"
       "required": false
     }
   }
